@@ -14,8 +14,9 @@ options.add_argument('--headless')
 options.add_argument('--log-level=3')
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
 driver = webdriver.Chrome(executable_path=r'C:\Program Files (x86)\Google\Driver\chromedriver.exe', chrome_options=options)
-input_class = input("Enter class (ex death-knight): ")
 list_class = ["death-knight", "demon-hunter", "druid", "hunter", "mage", "monk", "paladin", "priest", "rogue", "shaman", "warlock", "warrior"]
+print("Classes: " + str(list_class))
+input_class = input("Enter class: ")
 if find_duplicate(list_class, input_class):
     print("Class not found")
     sleep(3)
