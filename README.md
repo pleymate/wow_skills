@@ -1,5 +1,5 @@
 # How to use
-You can either run the script with python (I used 3.10), or use the executable in release.
+You can either run the script with python (I used 3.10), or use the executable in release: https://github.com/Pleymate/wow_skills/releases/tag/v0.0.1
 
 If you run the script with python, you need selenium (version 4.2.0)
 
