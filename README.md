@@ -1,3 +1,7 @@
+# What is it?
+It's a webscrapping program that get information about skills in wow for a specific class and print them ready to go
+![Code_LhinvM4xGc](https://user-images.githubusercontent.com/46490338/183324043-913b0c56-6a74-4e36-8f8d-44ccbd2117a2.gif)
+
 # How to use
 You can either run the script with python (I used 3.10), or use the executable in release: https://github.com/Pleymate/wow_skills/releases/tag/v0.0.1
 
