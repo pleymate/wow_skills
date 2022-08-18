@@ -1,3 +1,5 @@
+This script is based on wowhead database, and it's super bad. See this instead: https://github.com/pleymate/wow_skill_better
+
 # What is it?
 It's a webscrapping program that get information about skills in wow for a specific class and print them ready to go
 ![Code_LhinvM4xGc](https://user-images.githubusercontent.com/46490338/183324043-913b0c56-6a74-4e36-8f8d-44ccbd2117a2.gif)
